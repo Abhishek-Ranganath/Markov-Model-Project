@@ -29,4 +29,18 @@ A stochastic approach to predicting flight delays by modeling airline delay patt
    - A GUI with easy-to-use interface for airport and period selection
    - Visual output of probability and reasons of delay
    - Optimal airline selection will be recommended
-    
+
+##Key Findings
+
+1. **Delay Cause Correlation**:
+   - Strongest correlation (0.89) between carrier delays and late aircraft delays
+   - Security delays showed weakest correlation with other delay types
+
+2. **Airline Reliability Scores**:
+   - Top performers: 9E (77.27), AS (75.00), EV (74.50)
+   - Lowest performers: NK (36.87), AA (25.27)
+
+3. **Dominant Delay Causes**:
+   - NAS Delays dominate for 9 airlines (e.g., DL, MQ, OO)
+   - Late Aircraft Delays dominate for 6 airlines (e.g., AA, UA, WN)
+   - Carrier Delays dominate for 2 airlines (B6, EV)
