@@ -30,7 +30,7 @@ A stochastic approach to predicting flight delays by modeling airline delay patt
    - Visual output of probability and reasons of delay
    - Optimal airline selection will be recommended
 
-##Key Findings
+## Key Findings
 
 1. **Delay Cause Correlation**:
    - Strongest correlation (0.89) between carrier delays and late aircraft delays
